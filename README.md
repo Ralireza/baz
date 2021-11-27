@@ -1,4 +1,14 @@
+
+<div align="center">
+  
 #  برنامه‌نویسی از زمین‌خاکی
+  
+</div>
+<p align="center">
+  <img  src="https://github.com/ralireza/baz/blob/main/logo.png?raw=true">
+</p>
+
+## فهرست مطالب
 
 &#x202b; - [فصل 0](https://github.com/Ralireza/baz/tree/main/%D9%81%D8%B5%D9%84%200) |  مقدمات و آشنایی با دوره 
 
