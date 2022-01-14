@@ -8,6 +8,9 @@
   <img  src="https://github.com/ralireza/baz/blob/main/logo.png?raw=true">
 </p>
 
+
+# [لینک آموزش‌ها در یوتیوب](https://www.youtube.com/playlist?list=PL7M32hJnv9BeRR_D3WtuRyP9c-E1Wr1ob)  
+
 ## فهرست مطالب
 
 &#x202b; - [فصل 0](https://github.com/Ralireza/baz/tree/main/%D9%81%D8%B5%D9%84%200) |  مقدمات و آشنایی با دوره 
