@@ -23,4 +23,4 @@
 
 &#x202b; - [فصل 4](https://github.com/Ralireza/baz/tree/main/%D9%81%D8%B5%D9%84%20%DB%B4) | سی پلاس پلاس | مفاهیم اولیه برنامه‌نویسی به زبان سی پلاس پلاس
 
-&#x202b; - [فصل 5](https://github.com/Ralireza/baz/tree/main/%D9%81%D8%B5%D9%84%20%DB%B4) | سی شارپ | رابط گرافیکی 
+&#x202b; - [فصل 5](https://github.com/Ralireza/baz/tree/main/%D9%81%D8%B5%D9%84%20%DB%B5) | سی شارپ | رابط گرافیکی 
